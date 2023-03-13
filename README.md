@@ -1,4 +1,4 @@
-# Prediction-by-R-program
+# Prediction-by-R programming
 
 Machine Learning by 
 - caret 
